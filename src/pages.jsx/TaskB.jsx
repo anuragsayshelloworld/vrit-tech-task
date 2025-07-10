@@ -6,7 +6,7 @@ export default function TaskB(){
         
         {/*The div where title-type text is*/}
         <div className="flex flex-col w-full h-[80px] justify-center">
-          <h4 className="text-lg font-bold font-serif text-gray-700">Your SkillShikshya Journey</h4>
+          <h4 className="text-lg font-bold font-serif text-gray-700">Your SkillShikshya Journey🚀</h4>
           <h2 className="text-2xl font-bold text-gray-900">
            <span className="text-[#2f9877]">Step</span> In.{' '}
            <span className="text-[#2f9877]">Skill</span> Up.{' '}
