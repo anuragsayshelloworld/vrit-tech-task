@@ -1,4 +1,4 @@
-import TaskB from "./pages.jsx/TaskB"
+import TaskD from "./pages.jsx/TaskD"
 export default function App() {
-  return <TaskB/>
+  return <TaskD/>
 }

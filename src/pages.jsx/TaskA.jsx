@@ -1,4 +1,4 @@
-export default function TaskOne(){
+export default function TaskA(){
     return <div className="flex flex-col w-[1100px] h-[550px] gap-3 border p-4 m-4 rounded-2xl">
             
             <div className="h-32 flex flex-col justify-end">
